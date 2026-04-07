@@ -1,7 +1,11 @@
 aid: bank-of-new-york
-url: https://raw.githubusercontent.com/api-evangelist/bank-of-new-york/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/bank-of-new-york/refs/heads/main/apis.yml
 modified: '2026-03-21'
 apis: []
 common:
   - type: Website
     url: https://www.bank-of-new-york.com
+description: >-
+  Bank of New York is a global financial services company providing investment management,
+  investment services, and wealth management to institutions, corporations, and individuals.
